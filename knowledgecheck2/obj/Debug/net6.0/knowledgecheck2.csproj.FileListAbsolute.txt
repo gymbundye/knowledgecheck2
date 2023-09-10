@@ -1,0 +1,14 @@
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\bin\Debug\net6.0\knowledgecheck2.exe
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\bin\Debug\net6.0\knowledgecheck2.deps.json
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\bin\Debug\net6.0\knowledgecheck2.runtimeconfig.json
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\bin\Debug\net6.0\knowledgecheck2.dll
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\bin\Debug\net6.0\knowledgecheck2.pdb
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.AssemblyInfoInputs.cache
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.AssemblyInfo.cs
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.dll
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\refint\knowledgecheck2.dll
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.pdb
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\knowledgecheck2.genruntimeconfig.cache
+C:\Users\pengu\source\repos\knowledgecheck2\knowledgecheck2\obj\Debug\net6.0\ref\knowledgecheck2.dll
